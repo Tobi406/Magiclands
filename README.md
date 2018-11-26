@@ -10,7 +10,7 @@ Lightning staff:
 To do:
 
 - Add more staffs
- Add staff enchanter
+- Add staff enchanter
 - Get a texture for the staffs
 
 - Add diamond golem
