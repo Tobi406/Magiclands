@@ -1,0 +1,2 @@
+# Magiclands
+Magiclands datapack ressource
