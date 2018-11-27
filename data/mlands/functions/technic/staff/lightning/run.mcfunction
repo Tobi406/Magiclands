@@ -260,4 +260,4 @@ execute if entity @a[scores={ml.lightning=249}] run bossbar set mlands:lightning
 execute if entity @a[scores={ml.lightning=250..}] run bossbar set mlands:lightning value 250
 
 
-execute as @a[scores={ml.lightning=250..}] at @s if score @s ml.itest matches 1.. if entity @s[nbt={SelectedItem:{tag:{lightning_staff:1b}}}] run function mlands:technic/staff/lightning/raycast
+execute as @a[scores={ml.lightning=250..}] at @s positioned ~ ~1 ~ if score @s ml.itest matches 1.. run function mlands:technic/staff/lightning/raycast
