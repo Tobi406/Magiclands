@@ -21,5 +21,3 @@ execute if score @s ml.raycastba matches 200.. run scoreboard players set @s ml.
 execute if score @s ml.raycastba matches 200.. run scoreboard players set @s ml.raycastli 0
 
 execute positioned ^ ^ ^0.5 unless score @s ml.raycastli matches 200.. run function mlands:technic/staff/basic/raycast
-
-#test
