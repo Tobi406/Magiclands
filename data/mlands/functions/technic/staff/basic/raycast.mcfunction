@@ -3,13 +3,13 @@ tag @s[tag=!ml.sender] add ml.sender
 scoreboard players add @s ml.raycastba 1
 
 
-execute unless block ~ ~ ~ minecraft:air run effect give @e[tag=!ml.sender,distance=..1] instant_damage 1 4 true
+execute unless block ~ ~ ~ minecraft:air run effect give @e[tag=!ml.sender,distance=..1] instant_damage 1 0 true
 
 execute unless block ~ ~ ~ minecraft:air run scoreboard players set @s ml.basic 0
 execute unless block ~ ~ ~ minecraft:air run scoreboard players set @s ml.raycastba 0
 
 
-execute if entity @e[tag=!ml.sender,distance=..1] run effect give @e[tag=!ml.sender,distance=..1] instant_damage 1 4 true
+execute if entity @e[tag=!ml.sender,distance=..1] run effect give @e[tag=!ml.sender,distance=..1] instant_damage 1 0 true
 
 execute if entity @e[tag=!ml.sender,distance=..1] run scoreboard players set @s ml.basic 0
 execute if entity @e[tag=!ml.sender,distance=..1] run scoreboard players set @s ml.raycastba 0
