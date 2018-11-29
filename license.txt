@@ -7,4 +7,4 @@ You are free to:
 You aren't free to:
 
 - Copy the datapack and / or the ressourcepack.
-- Say that you maked the datapack and / or the ressourcepack.
+- Say that you made the datapack and / or the ressourcepack.
