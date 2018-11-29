@@ -1,6 +1,6 @@
 bossbar add mlands:basic "Basic charge"
 bossbar set mlands:basic color white
-bossbar set mlands:basic max 70
+bossbar set mlands:basic max 50
 
 bossbar set mlands:basic players @s
 
@@ -56,26 +56,6 @@ execute if entity @s[scores={ml.basic=46}] run bossbar set mlands:basic value 46
 execute if entity @s[scores={ml.basic=47}] run bossbar set mlands:basic value 47
 execute if entity @s[scores={ml.basic=48}] run bossbar set mlands:basic value 48
 execute if entity @s[scores={ml.basic=49}] run bossbar set mlands:basic value 49
-execute if entity @s[scores={ml.basic=50}] run bossbar set mlands:basic value 50
-execute if entity @s[scores={ml.basic=51}] run bossbar set mlands:basic value 51
-execute if entity @s[scores={ml.basic=52}] run bossbar set mlands:basic value 52
-execute if entity @s[scores={ml.basic=53}] run bossbar set mlands:basic value 53
-execute if entity @s[scores={ml.basic=54}] run bossbar set mlands:basic value 54
-execute if entity @s[scores={ml.basic=55}] run bossbar set mlands:basic value 55
-execute if entity @s[scores={ml.basic=56}] run bossbar set mlands:basic value 56
-execute if entity @s[scores={ml.basic=57}] run bossbar set mlands:basic value 57
-execute if entity @s[scores={ml.basic=58}] run bossbar set mlands:basic value 58
-execute if entity @s[scores={ml.basic=59}] run bossbar set mlands:basic value 59
-execute if entity @s[scores={ml.basic=60}] run bossbar set mlands:basic value 60
-execute if entity @s[scores={ml.basic=61}] run bossbar set mlands:basic value 61
-execute if entity @s[scores={ml.basic=62}] run bossbar set mlands:basic value 62
-execute if entity @s[scores={ml.basic=63}] run bossbar set mlands:basic value 63
-execute if entity @s[scores={ml.basic=64}] run bossbar set mlands:basic value 64
-execute if entity @s[scores={ml.basic=65}] run bossbar set mlands:basic value 65
-execute if entity @s[scores={ml.basic=67}] run bossbar set mlands:basic value 66
-execute if entity @s[scores={ml.basic=67}] run bossbar set mlands:basic value 67
-execute if entity @s[scores={ml.basic=68}] run bossbar set mlands:basic value 68
-execute if entity @s[scores={ml.basic=69}] run bossbar set mlands:basic value 69
-execute if entity @s[scores={ml.basic=70}] run bossbar set mlands:basic value 70
+execute if entity @s[scores={ml.basic=50..}] run bossbar set mlands:basic value 50
 
-execute as @s[scores={ml.basic=70..}] at @s positioned ~ ~1 ~ if score @s ml.itest matches 1.. run function mlands:technic/staff/basic/raycast
+execute as @s[scores={ml.basic=50..}] at @s positioned ~ ~1 ~ if score @s ml.itest matches 1.. run function mlands:technic/staff/basic/raycast
