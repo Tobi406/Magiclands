@@ -1,0 +1,26 @@
+So, there are many scoreboards and some tags and bossbars in the customcrafting section, this is a place where these things are described:
+
+
+Scoreboards:
+
+All scoreboards beginn with "cc." this phrase is not listed in here.
+
+- "remove1" Used for subtract things in the crafting field.
+
+- "slotCount" Used to test for the slots in the crafting field.
+
+- "ccrafting" Used for making the crafting possible.
+
+Tags:
+
+Same as scoreboards.
+
+- "customcrafting" Used for idendtify entitys that are used for the crafting table.
+
+
+Bossbars:
+
+
+NBT:
+
+- "{cc:1b}" This NBT-Tag is to identify the glass panes in the crafting fiel.

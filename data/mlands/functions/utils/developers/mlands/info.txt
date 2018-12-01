@@ -1,0 +1,43 @@
+So, there are many scoreboards and some tags and bossbars in the datapack, this is a place where these things are described:
+
+
+Scoreboards:
+
+All scoreboards beginn with "ml." this phrase is not listed in here.
+
+- "timer" Used for timing events.
+
+- "itest" Used to test for a carrot on a stick.
+
+- "lightning" Used for the lightning spell.
+
+- "basic" Used for the basic spell.
+
+- "raycastba" Used for the basic raycast.
+
+- "raycastli" Used for the lightning raycast.
+
+- "damageba" used for doing damage at the entity which is attacked at the basic spell
+
+
+Tags:
+
+Same as scoreboards.
+
+- "sender" Used for idendtify the executor of a spell, while the raycast is active.
+
+
+Bossbars:
+
+Same as scoreboards.
+
+- "lightning" Used to make the lightning bossbar cooldown.
+
+- "basic" Used to make the lightning bossbar cooldown.
+
+
+NBT:
+
+- "{basic_staff:1b}" This NBT-Tag is to identify the basic staff.
+
+- "{lightning_staff:1b}" This NBT-Tag is to identify the lightning staff.

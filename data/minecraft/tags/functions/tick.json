@@ -3,6 +3,6 @@
 	[
 		"mlands:technic/tick",
 		"ccrafting:main",
-		"ccrafting:main/setblock"
+		"ccrafting:technic/setblock"
 	]
 }

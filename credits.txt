@@ -1,5 +1,7 @@
 This datapack has been maked by Tobi for the project "Magiclands".
 
+It can be found over here: "https://github.com/Tobi406/Magiclands"
+
 This project is powererd by:
 
 - "CCrafting" by FanVonFazon, he can be found over here: https://youtube.com/fanvonfazon and https://fanvonfazon.blogspot.com
