@@ -1,6 +1,8 @@
 {
 	"values":
 	[
-		"mlands:technic/tick"
+		"mlands:technic/tick",
+		"ccrafting:main",
+		"ccrafting:main/setblock"
 	]
 }

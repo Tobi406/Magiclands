@@ -1,6 +1,7 @@
 {
 	"values":
 	[
-		"mlands:technic/load"
+		"mlands:technic/load",
+		"ccrafting:reload"
 	]
 }

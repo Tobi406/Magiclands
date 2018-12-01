@@ -1,0 +1,1 @@
+give @s minecraft:bat_spawn_egg{display:{Name:"[{\"text\":\"Custom \",\"color\":\"light_purple\",\"italic\":false},{\"text\":\"Crafting Table\",\"color\":\"dark_purple\",\"italic\":false}]",Lore:["§dBenutze es, um deinen","§5Custom Crafting Table","§dzu platzieren."]},EntityTag:{Tags:["cc.setcraftingtable"]}} 1

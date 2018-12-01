@@ -1,3 +1,5 @@
+tellraw @s ["",{"text":"\n"},{"text":"[","color":"dark_aqua"},{"text":"Magiclands Core","color":"aqua"},{"text":"] ","color":"dark_aqua"},{"text":"Core ","color":"dark_purple"},{"text":"successfully uninstalled.\n","color":"light_purple"}]
+
 scoreboard objectives remove ml.itest
 scoreboard objectives remove ml.timer
 
