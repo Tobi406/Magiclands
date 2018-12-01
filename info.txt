@@ -1,4 +1,4 @@
-Developer infos can be found under "data/mlands/functions/utils/developers/info.txt"
+Developer infos can be found under "data/mlands/functions/utils/developers/documentation/info.txt"
 
 Other infos can be found on the wiki: https://github.com/Tobi406/Magiclands/wiki
 

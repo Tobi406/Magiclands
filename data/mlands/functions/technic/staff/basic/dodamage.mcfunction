@@ -1,4 +1,4 @@
-execute store result score @s ml.damageba run data get entity @s Health
+execute store result score @s ml.damageba run data get entity @s Health 1
 
 scoreboard players remove @s ml.damageba 1
 
