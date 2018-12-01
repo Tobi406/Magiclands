@@ -13,4 +13,4 @@ To do:
 - Add staff enchanter
 - Get a texture for the staffs
 
-- Add diamond golem
+- Add diamond (?) golem
