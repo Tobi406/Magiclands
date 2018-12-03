@@ -1,7 +1,1 @@
-Changelog for 18w48a:
-
-- Added custom crafting recipes
-
-- Maked default staff functional
-
-- And organized the datapack!
+´´´
