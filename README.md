@@ -1,14 +1,13 @@
 # Magiclands
 Magiclands datapack ressource
 
-Current staffs added:
+Staffs:
+- How to get: /function mlands:utils/players/give/staffs/givestaffs
 
-Lightning staff:
-
-- How to get: Gave yourself a carrot on a stick with the custom tag "lightning_staff:1b"
+Blocks:
+- How to get: /function mlands:utils/players/give/blocks/giveblocks
 
 To do:
-
 - Add more staffs
 - Add staff enchanter
 - Get a texture for the staffs
