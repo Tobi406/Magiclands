@@ -1,4 +1,4 @@
-This datapack has been maked by Tobi for the project "Magiclands".
+This datapack has been created by Tobi for the project "Magiclands".
 
 It can be found over here: "https://github.com/Tobi406/Magiclands"
 
